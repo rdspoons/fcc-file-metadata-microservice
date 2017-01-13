@@ -1,0 +1,24 @@
+{
+  "name": "fcc-file-metadata-mircosrevice",
+  "version": "1.0.0",
+  "description": "file metadata microservice",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "file",
+    "meteadata",
+    "microservice"
+  ],
+  "engines": {
+    "node": "4.6.1",
+    "npm": "2.15.9"
+  },
+  "author": "rdspoons",
+  "license": "ISC",
+  "dependencies": {
+    "multer": "^1.2.1"
+  }
+}
